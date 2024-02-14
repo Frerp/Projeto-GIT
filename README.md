@@ -1,0 +1,1 @@
+Olá! Esse projeto é para aprendizado de como funcona o github. Pode-se dizer também que essa é a primeira alteração no arquivo porque o primeiro commit que eu dei foi com o arquivo fazio HA!
